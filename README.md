@@ -32,17 +32,36 @@ Vamos conectar e transformar dados em ações! 🚀
 
 ## Tecnologias que uso no meu dia
 
-<div style="display: inline_blok"><br/>
-  <img align="center" alt="SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
- <img align="center" alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A400?style=for-the-badge&logo=openai&logoColor=white" />
- <img align="center" alt="Microsoft_Power_BI" src="https://img.shields.io/badge/Power_BI-FFB848?style=for-the-badge&logo=powerbi&logoColor=white" />
- <img align="center" alt="MicroStrategy" src="https://img.shields.io/badge/MicroStrategy-FF4F00?style=for-the-badge&logo=microstrategy&logoColor=white" />
- <img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
- <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img align="center" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-
-</div><br/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img alt="SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A400?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="Power_BI" src="https://img.shields.io/badge/Power_BI-FFB848?style=for-the-badge&logo=powerbi&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="MicroStrategy" src="https://img.shields.io/badge/MicroStrategy-FF4F00?style=for-the-badge&logo=microstrategy&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ## Linguagens de Programação 
 
