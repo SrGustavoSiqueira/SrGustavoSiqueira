@@ -3,13 +3,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavo-silva-siqueira)
 
 **`Analista de Dados`**
-
- Sou apaixonado por tecnologia e dados, natural de Cataguaes e com 35 anos de vida e aprendizado. Possuo uma formação diversificada e abrangente, iniciada no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET/MG) com curso técnico em mecânica industrial e ensino médio entre 2005 e 2008, seguida pela graduação em Engenharia de Controle e Automação (2010-2019). Posteriormente, concluí a graduação em Matemática nas Faculdades Integradas de Ariquemes (FIAR) em 2020 e em Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Ciência do Alto Paranaíba (FATAP) de 2021 a 2023. Em 2023, especializei-me em Sistemas de Informação e em Energia Solar Fotovoltaica, com um projeto orientado pela Prof. Sihara Toledo na Uniminas (UNMG), aprimorando meu conhecimento em tecnologias sustentáveis e gestão de sistemas de informação
-
+<p align="justify">
+  Sou apaixonado por tecnologia e dados, natural de Cataguaes e com 35 anos de vida e aprendizado. Possuo uma formação diversificada e abrangente, iniciada no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET/MG) com curso técnico em mecânica industrial e ensino médio entre 2005 e 2008, seguida pela graduação em Engenharia de Controle e Automação (2010-2019). Posteriormente, concluí a graduação em Matemática nas Faculdades Integradas de Ariquemes (FIAR) em 2020 e em Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Ciência do Alto Paranaíba (FATAP) de 2021 a 2023. Em 2023, especializei-me em Sistemas de Informação e em Energia Solar Fotovoltaica, com um projeto orientado pela Prof. Sihara Toledo na Uniminas (UNMG), aprimorando meu conhecimento em tecnologias sustentáveis e gestão de sistemas de informação.
+</p>
 
 🔧 Minhas Especialidades
+ <p align="justify">
  Com um olhar atento para a eficiência e a inovação, desenvolvo soluções que ajudam a transformar dados em insights valiosos. Tenho expertise em ferramentas como Power BI, MicroStrategy e Oracle, o que me permite criar análises detalhadas e relatórios que auxiliam equipes e empresas a tomarem decisões mais informadas e estratégicas.
-
+</p>
 
 Vamos conectar e transformar dados em ações! 🚀
 
